@@ -9,4 +9,17 @@ I made this batch script file to choose faster between my power plans, because I
 		- *To add a new power plan search on the internet.*
 	
 3. Save it and put the bat file anywhere fits (e.g. on Desktop) or make a shortcut.
+
+## Wellcome page: 
+![Runnig the .bat flie](https://github.com/MarcuTamas/MyPowerPlan/blob/main/RunningExamples/Wellcome.png?raw=true)
+
+## Choosing an option:
+![Runnig the .bat flie](https://github.com/MarcuTamas/MyPowerPlan/blob/main/RunningExamples/Choosing%20option.png?raw=true)
+
+## End page:
+![Runnig the .bat flie](https://github.com/MarcuTamas/MyPowerPlan/blob/main/RunningExamples/End%20page.png?raw=true)
+
+### Desktop shortcut:
+![Runnig the .bat flie](https://github.com/MarcuTamas/MyPowerPlan/blob/main/RunningExamples/Screenshot%202023-04-15%20204520.png?raw=true)
+	
              
