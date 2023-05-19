@@ -11,13 +11,13 @@ I made this batch script file to choose faster between my power plans, because I
 3. Save it and put the bat file anywhere fits (e.g. on Desktop) or make a shortcut.
 
 ## Wellcome page: 
-![image](https://user-images.githubusercontent.com/126944313/232245735-8c133a96-32b4-464e-b3d9-e87eb2e87c0b.png)
+![wellcome](https://user-images.githubusercontent.com/126944313/232245735-8c133a96-32b4-464e-b3d9-e87eb2e87c0b.png)
 
 ## Choosing an option:
-![image](https://user-images.githubusercontent.com/126944313/232245789-6ea9dcea-f0a9-4240-b9a0-7ae6bb50c0f9.png)
+![menu](https://user-images.githubusercontent.com/126944313/232245789-6ea9dcea-f0a9-4240-b9a0-7ae6bb50c0f9.png)
 
 ## End page:
-![image](https://user-images.githubusercontent.com/126944313/232245827-9655556f-f9ae-4610-9a8d-ed6ff0ae28ac.png)
+![end](https://user-images.githubusercontent.com/126944313/232245827-9655556f-f9ae-4610-9a8d-ed6ff0ae28ac.png)
 
 ### Desktop shortcut:
-![image](https://user-images.githubusercontent.com/126944313/232245855-7077d8c9-4a24-4cfa-9913-2b37e67f1a0b.png)
+![desktop](https://user-images.githubusercontent.com/126944313/232245855-7077d8c9-4a24-4cfa-9913-2b37e67f1a0b.png)
